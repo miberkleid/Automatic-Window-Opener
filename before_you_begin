@@ -1,0 +1,21 @@
+Make sure you dowload the Motor Shield Library https://github.com/adafruit/Adafruit-Motor-Shield-library
+LCD libary comes standard with the arduino program
+
+Items Used:
+Arduino UNO
+Arduino Motor Shield
+12V Stepper Motor
+Breadboard
+Several jumper cables and wire
+LCD Display
+220 and 10K ohm resistors
+2 LEDs
+2x6-pin and 2x8pin female pin
+38 Khz IR receiver
+IR remote control
+Breadboard-friendly 2.1mm DC barrel jack
+12 VDC 1000mA regulated switching power adapter
+Photo cell
+TMP36 Analog Temperature Sensor
+Reel to attach to motor (we 3D printed with the Makerbot)
+String to attach to reel
